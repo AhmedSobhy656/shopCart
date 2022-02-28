@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Basic",
+      "count": 0,
+      "price": 1500,
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1001.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 2,
+      "name": "Notebook Basic",
+      "count": 0,
+      "price": 1500,
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1001.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Notebook Basic",
+      "count": 0,
+      "price": 1500,
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1001.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "name": "Notebook Basic",
+      "count": 0,
+      "price": 1500,
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1001.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "name": "Notebook Basic",
+      "count": 0,
+      "price": 1500,
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1001.jpg",
+      "isInCart": false
+    },
+    {
+      "id": 6,
+      "name": "Notebook Basic",
+      "count": 0,
+      "price": 1500,
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1001.jpg",
+      "isInCart": false
+    }
+  ]
+}
